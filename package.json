@@ -1,0 +1,17 @@
+{
+  "name": "tsof-01-backend",
+  "version": "1.0.0",
+  "description": "Repositório da aula inicial de Testes de Software - Backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Testes"
+  ],
+  "author": "Evelyn Oliveira",
+  "license": "MIT"
+}
